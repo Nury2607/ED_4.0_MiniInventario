@@ -23,4 +23,4 @@ Linea adicional para 2º commit
 3. El programa permite añadir productos, listarlos y buscarlos por nombre.
 4. La opción de búsqueda informa por pantalla si el producto existe o no.
 5. El proyecto está orientado a practicar estructuras básicas y control de versiones
-   con Git y GitHub.
+   con Git y GitHub
