@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("MiniInventario iniciado correctamente.");
-        System.out.println("Cambio realizado para seguna parte practica");
+        System.out.println("Mejora para tarea 2 Git");
     }
 }
 
