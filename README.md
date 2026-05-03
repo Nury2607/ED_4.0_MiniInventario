@@ -16,4 +16,5 @@ Aplicación de consola en Java para practicar Git y GitHub.
 - `README.md`: documentación básica del proyecto.
 
 Linea adicional para 2º commit
-Version para hacer stash o shelve
+
+Version de mejora para rama documental
